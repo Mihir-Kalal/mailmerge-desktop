@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Universal AI Mail Merge & Bulk Email Desktop Application",
   "main": "dist/main/main.js",
-  "author": "",
+  "author": {
+    "name": "Mihir Kalal",
+    "email": "sharable4u@gmail.com"
+  },
   "license": "MIT",
   "private": true,
   "scripts": {
